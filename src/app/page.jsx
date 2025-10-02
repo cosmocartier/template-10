@@ -225,7 +225,7 @@ export default function Home() {
           </div>
 
           <div className="preloader-bg-img">
-            <img src="/hero.gif" alt="" />
+            <img src="/kanye.jpg" alt="" />
           </div>
         </>
       )}
