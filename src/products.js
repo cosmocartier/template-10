@@ -38,7 +38,7 @@ const products = [
   {
     id: "003",
     category: "mockup",
-    name: "Minimal Phone Mockup",
+    name: "Stainless Steel Cup",
     description: {
       bodyCopy1:
         "Minimal Phone Mockup is a high-fidelity digital asset designed to enhance your creative presentations and visuals.",
@@ -46,10 +46,10 @@ const products = [
         "Crafted with modern aesthetics, it\u2019s ideal for branding, portfolio showcases, and product campaigns.",
     },
     designer: "Form Labs",
-    price: 10,
+    price: 90,
     date: "2025-04-08",
     fileType: "PSD",
-    previewImg: "product_003.jpeg",
+    previewImg: "stainless-steel-cup.png",
     productImages: ["product_003.jpeg", "product_004.jpeg", "product_005.jpeg"],
     compatibility: "Photoshop",
   },
