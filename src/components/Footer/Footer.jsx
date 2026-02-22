@@ -30,16 +30,16 @@ const Footer = () => {
   return (
     <div className="footer">
       <div className="footer-col">
-        <p>&copy;2025 All right reserved</p>
+        <p>&copy;2026 All right reserved</p>
       </div>
       <div className="footer-col">
         <div className="footer-clock">
-          <p>Toronto, ON {torontoTime}</p>
+          <p>Dubai, UAE {torontoTime}</p>
         </div>
         <div className="footer-author">
           <p>
             Made by&nbsp;
-            <Link href="https://www.youtube.com/@codegrid">Codegrid</Link>
+            <Link href="https://www.instagram.com/formatarchive">Format Archive</Link>
           </p>
         </div>
       </div>
