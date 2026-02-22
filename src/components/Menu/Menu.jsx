@@ -451,19 +451,19 @@ const Menu = () => {
         <div className="menu-footer" ref={menuFooterColsRef}>
           <div className="menu-footer-col">
             <div className="revealer">
-              <p>&copy;2025 All rights reserved</p>
+              <p>&copy;2026 All rights reserved</p>
             </div>
           </div>
           <div className="menu-footer-col">
             <div className="socials">
               <div className="revealer">
-                <a href="https://www.youtube.com/@codegrid">YouTube</a>
+                <a href="https://www.youtube.com/formatarchive">YouTube</a>
               </div>
               <div className="revealer">
-                <a href="https://www.instagram.com/codegridweb/">Instagram</a>
+                <a href="https://www.instagram.com/formatarchive/">Instagram</a>
               </div>
               <div className="revealer">
-                <a href="https://x.com/codegridweb">X</a>
+                <a href="https://x.com/formatarchive">X</a>
               </div>
             </div>
           </div>
